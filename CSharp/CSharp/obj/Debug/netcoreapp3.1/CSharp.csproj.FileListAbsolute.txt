@@ -1,0 +1,14 @@
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.AssemblyReference.cache
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\Jaqueline\source\repos\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
